@@ -3,7 +3,7 @@
 
 
 - 🔭 I’m currently working on a Hospital as a Biomedical Scientist but looking for an opportunity to work as a developer 
-- 🌱 I’m currently learning **JavaScript, HTML, CSS, SQL, Node.JS**
+- 🌱 Working with **JavaScript, HTML, CSS, TypeScript, SQL, Node.JS**
 - 📫 How to reach me: criscamila09@gmail.com
 
 
