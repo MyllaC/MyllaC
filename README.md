@@ -3,9 +3,11 @@
 <h1 align="left">Hi <img src="https://raw.githubusercontent.com/kaueMarques/kaueMarques/master/hi.gif" width="30px">, I'm Camila Cristina</h1>
 
 
-- 🔭 I’m currently working on a Hospital as a Biomedical Scientist but looking for an opportunity to work as a developer 
-- 🌱 Working with **JavaScript, HTML, CSS, TypeScript, SQL, Node.JS**
-- 📫 How to reach me: criscamila09@gmail.com
+- 🔭 Migrando da área da saúde (sou Biomédica) para área de Desenvolvimento Web 
+- 🌱 Aperfeiçoando **JavaScript, HTML, CSS, TypeScript, SQL, Node.JS**
+- 💻 Participante do curso de formação **FullStack #GoDev** pela **ImãLearningPlace**
+- 💻 Aluna da **RocketSeat**
+- 📫 Entre em contato comigo: criscamila09@gmail.com
 
 
 
