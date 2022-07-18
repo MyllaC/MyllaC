@@ -4,7 +4,7 @@
 
 
 - 🔭 Migrando da área da saúde (sou Biomédica) para área de Desenvolvimento Web 
-- 🌱 Aperfeiçoando **JavaScript, HTML, CSS, TypeScript, SQL, Node.JS**
+- 🌱 Aperfeiçoando **JavaScript, HTML, CSS, TypeScript, SQL, Node.JS, React.JS**
 - 💻 Participante do curso de formação **FullStack #GoDev** pela **ImãLearningPlace**
 - 💻 Aluna da **RocketSeat**
 - 📫 Entre em contato comigo: criscamila09@gmail.com
