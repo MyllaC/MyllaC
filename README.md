@@ -3,8 +3,8 @@
 <h1 align="left">Hi, I'm Camila Cristina</h1>
 
 
-- 🔭 Migrando da área da saúde (sou Biomédica) para área de Desenvolvimento Web 
-- 🌱 Aperfeiçoando **JavaScript, HTML, CSS, TypeScript, SQL, Node.JS, React.JS**
+- 🔭 Desenvolvedora Web na NectarCRM
+- 🌱 Aperfeiçoando **JavaScript, HTML, CSS, TypeScript, SQL, Node.JS, React.JS, AngularJS, Vue.js**
 - 💻 Participante do curso de formação **FullStack #GoDev** pela **ImãLearningPlace**
 - 💻 Aluna da **RocketSeat**
 - 📫 Entre em contato comigo: criscamila09@gmail.com
