@@ -20,8 +20,5 @@
 <a href="https://www.instagram.com/camilacris.oa/" target="_blank">
  <img align="center" src="https://img.shields.io/badge/-camilacris.oa-05122A?style=flat&logo=instagram" alt="instagram"/>
 </a>
-<a href="https://twitter.com/MyllaC09" target="_blank">
-  <img align="center" src="https://img.shields.io/badge/-MyllaC09-05122A?style=flat&logo=twitter" alt="twitter"/>  
-</a>
 </p>
 
